@@ -3,10 +3,13 @@
 \#\# Table of Contents
 
 [Description](#description)
+Refresher document to get back in the saddle.
 
 [Installation](#installation)
+Open in browser.
 
 [Credits](#credits)
+Ashleigh Freiler
 
 [Links](#links)
 
